@@ -66,3 +66,14 @@ body {
   .sign-out {
     margin-top: 50px;
   }
+
+  .sign-out-btn{
+    width: 100px;
+    height: 25px;
+    border: none;
+    background-color: #cd4d34;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+  }
